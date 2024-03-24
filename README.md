@@ -8,6 +8,6 @@ VIA firmware in: https://www.caniusevia.com/docs/download_firmware
 (look for `gmmk_pro_rev1_ansi_via.bin`)
 Direct link: https://raw.githubusercontent.com/the-via/firmware/master/gmmk_pro_rev1_ansi_via.bin
 
-VIA save file in `[path to file]`
+VIA save file in `layout.json`
 
 Hex code for Mission control: `0xc1`
